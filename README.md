@@ -1,8 +1,8 @@
-# E-commerce empresa X
+## Repositório criado para aprender e praticar comandos do Git e GitHub em conjunto com o curso do professor Matheus Battisti na Udemy.
 
 Vamos criar um **e-commerce** para a *empresa X*
 
-## Funcionalidades:
+### Funcionalidades:
 
 _Checkout,**Tela de produto**, Catálogo, Home com banner_
 
@@ -38,11 +38,11 @@ __Melhoria 1__, _melhoria 2_
 ![Logo do PHP](https://www.php.net/images/logos/new-php-logo.svg)
 
 
-## Links interessantes:
+### Links interessantes:
 
 [Google](https://www.google.com)
 
-## Código da função soma
+### Código da função soma
 
 ```javascript
     function soma (a, b) {
@@ -50,7 +50,7 @@ __Melhoria 1__, _melhoria 2_
     }
 ```
 
-## Lista de tarefas a fazer:
+### Lista de tarefas a fazer:
 
 - [x] Área de membros
 - [ ] Integração com outros pagamentos
